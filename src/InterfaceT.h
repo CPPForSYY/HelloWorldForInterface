@@ -20,7 +20,8 @@ public:
 	virtual ~ InterfaceT(){};
 
 public:
-	virtual void TZ(string string)=0;
+	virtual void TZ()=0;
+//	virtual void test(){};
 };
 
 

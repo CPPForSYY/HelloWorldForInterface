@@ -24,7 +24,7 @@ class SecondActivity{
 
     void exe(InterfaceT *t){
 
-    	t->TZ("jk");
+    	t->TZ();
     }
 };
 #endif /* SECONDACTIVITY_H_ */
